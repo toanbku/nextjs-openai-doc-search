@@ -1,3 +1,6 @@
 [submodule "pages/docs/handbook"]
 	path = pages/docs/handbook
 	url = https://github.com/dwarvesf/handbook.git
+[submodule "pages/docs/brain"]
+	path = pages/docs/brain
+	url = https://github.com/dwarvesf/brain.git
